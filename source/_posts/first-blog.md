@@ -1,5 +1,5 @@
 ---
-title: first blog
+title: 配置hexo+github个人博客--开启新技能
 date: 2017-07-05 17:21:21
 tags:
 - hexo
