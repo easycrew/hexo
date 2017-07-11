@@ -2,6 +2,8 @@
 title: first blog
 date: 2017-07-05 17:21:21
 tags:
+- hexo
+- GitHub
 ---
 # hexo主题推荐
 <http://www.jianshu.com/p/b6c694c2e58e>
